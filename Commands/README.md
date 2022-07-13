@@ -12,4 +12,8 @@
     - connect to a session
     `tmux attach -t name`
     - create a session
+    `tmux new -t name`
     - kill a session
+    `tmux kill-session -t name`
+    - ctrl b + d
+    leave session
