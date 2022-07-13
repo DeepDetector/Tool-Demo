@@ -1,2 +1,16 @@
-# Workaday-Demo
-Record some useful code or command.
+# Tool-Demo
+
+### Commands
+
++ Linux
+   - system
+   - tmux
+
+
+### Code
+
++ matplotlib
+
++ split files
+
++ Openmmcv
