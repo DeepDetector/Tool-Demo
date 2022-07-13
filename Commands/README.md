@@ -15,5 +15,5 @@
     `tmux new -t name`
     - kill a session
     `tmux kill-session -t name`
-    - ctrl b + d
-    leave session
+    - leave session
+    `ctrl b + d`
