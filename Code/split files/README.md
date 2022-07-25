@@ -4,3 +4,5 @@
 `This file can generate label csv files with classified foldirs.`
 - generate_data.py  
 `This file can generate classification data by xml files of object detection.`
+- showimg.py  
+`This file can show img by txt format files of object detection.`
