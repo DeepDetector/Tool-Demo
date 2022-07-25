@@ -17,3 +17,5 @@
     `tmux kill-session -t name`
     - leave session
     `ctrl b + d`
+    - copy mode
+    `ctrl b + [`
