@@ -9,6 +9,12 @@ def FoldingLineGraph():
     plt.grid(True, linestyle="--", alpha=0.5)
     plt.show()
 
-
+def MutilGraph():
+    fig, subs = plt.subplots(1, 3)
+        subs[0].imshow(batch['hm'][0][0])
+        subs[1].imshow(phase1_hm[0][0])
+        subs[2].imshow(output['hm'][0][0])
+        plt.show()
+        
 if __name__ == '__main__':
     FoldingLineGraph()
